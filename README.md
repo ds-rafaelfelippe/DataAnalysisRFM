@@ -2,7 +2,9 @@
 
 Esse é um projeto de análise de dados.
 
-O conjunto de dados utilizado está disponível [neste link](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
+O conjunto de dados utilizado está disponível [neste link](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign).
+
+Para visualizar o script com o código completo acesse [esse link](https://ds-rafaelfelippe.github.io/projetos/Projeto_DataAnalysisRFM.html).
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
